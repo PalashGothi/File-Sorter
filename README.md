@@ -1,4 +1,4 @@
-Instructions to Run the Script:
+Instructions to Run the Script:/n
 Save the Script: Save the above script to a file, for example, file_sorter.py.
 Run the Script: Open a terminal or command prompt and navigate to the directory where file_sorter.py is located.
 Execute the Script: Run the script using the command:
