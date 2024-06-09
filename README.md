@@ -5,9 +5,7 @@ Save the Script: Save the above script to a file, for example, file_sorter.py.
 Run the Script: Open a terminal or command prompt and navigate to the directory where file_sorter.py is located.
 
 Execute the Script: Run the script using the command:
-sh
 
-Copy code
 python file_sorter.py
 
 Provide Inputs: When prompted, enter the source directory (where the files are currently located), the destination directory (where you want the sorted files to be moved to), and the naming format.
